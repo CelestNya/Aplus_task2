@@ -1,0 +1,15 @@
+[submodule "libs/Aplus2-runModelInTransformer"]
+	path = libs/Aplus2-runModelInTransformer
+	url = https://github.com/CelestNya/Aplus2-runModelInTransformer
+[submodule "libs/Aplus2-runModelInvLLM"]
+	path = libs/Aplus2-runModelInvLLM
+	url = https://github.com/CelestNya/Aplus2-runModelInvLLM
+[submodule "libs/Aplus2-convertLLaMA"]
+	path = libs/Aplus2-convertLLaMA
+	url = https://github.com/CelestNya/Aplus2-convertLLaMA
+[submodule "libs/Aplus2-simpleRAG"]
+	path = libs/Aplus2-simpleRAG
+	url = https://github.com/CelestNya/Aplus2-simpleRAG
+[submodule "libs/Aplus2-GenerateInterface"]
+	path = libs/Aplus2-GenerateInterface
+	url = https://github.com/CelestNya/Aplus2-GenerateInterface

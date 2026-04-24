@@ -9,6 +9,5 @@ cd Aplus_task2
 git submodule update --init --recursive
 ```
 
-虽然说只精读了transformer，但是探索过程中五篇文章其实都多多少少了解了一下思想了。
 
 代码库预备archived

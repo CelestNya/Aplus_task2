@@ -16,7 +16,7 @@
     - 自然语言塔
 
 1. 自然语言部分（类似BERT的语义编码器）
-    - （计算过程略，请查阅[Attention is All You Need_report.md](./Attention%20is%20All%20You%20Need_report.md)的编码器部分）
+    - （计算过程略，请查阅[Attention_report.md](./Attention_report.md)的编码器部分）
     - 最终输出自然语言语义向量$X_{lang}$。
 
 2. 视觉塔（有ViT和ResNet两种，前者更注重语义信息，后者更注重纹理信息）

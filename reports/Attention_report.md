@@ -1,4 +1,5 @@
-# 读 Attention is All You Need （使用豆包伴读，辅以网上搜索到的优质译文）
+# 读 Attention is All You Need 
+`使用豆包伴读，辅以网上搜索到的优质译文` [译文pdf](transformer_zh_cn.pdf)
 
 ## 核心贡献
 
